@@ -1,9 +1,9 @@
 # myfindir.online
 
-This is website for business consulting services of myfindir.online company. 
-Services including: corporate finance, operational management and IT consulting.
+This is website for business consulting services of [myfindir.online] company. 
+Services including: _corporate finance, operational management and IT consulting._
 
-# The design of the webpage is made by template:
+## The design of the webpage is made by template:
 
 Paradigm Shift by HTML5 UP
 html5up.net | @ajlkn
@@ -25,7 +25,7 @@ AJ
 aj@lkn.io | @ajlkn
 
 
-# Credits:
+### Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
